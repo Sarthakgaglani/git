@@ -2,6 +2,13 @@
 -> check kr skte ho app konsi file kis stage mein hai -> git status -s
 heirachy is main in git checking git status
 
+git status sirf unka status bata ta hain jo files committed nahi hai ya fir
+commit hone ke baad change ki gayi hai
+
+git status tells about file changes ke baare mein abd uska state ke baare 
+mein, i.e. befeore commit or after commit
+
+git status batata hai commit ke pahle ki file stage and commit ke bare mein
 
 -> check kr skte ho aap kiten save checkpoints hai -> git log --oneline -> graph
--> 
+git log tells commit history
