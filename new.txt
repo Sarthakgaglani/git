@@ -1,0 +1,7 @@
+-> 
+-> check kr skte ho app konsi file kis stage mein hai -> git status -s
+heirachy is main in git checking git status
+
+
+-> check kr skte ho aap kiten save checkpoints hai -> git log --oneline -> graph
+-> 
